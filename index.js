@@ -8,25 +8,16 @@
 // The function should calculate and return the total cost by multiplying the price 
 // and quantity. Test the function with different price and quantity values.
 
-function calculateTotalCost(price,quantity) {
-  return (price * quantity);
-}
-console.log(calculateTotalCost(50, 12));
-
-console.log(calculateTotalCost(2000, 24));
-
-console.log(calculateTotalCost(55, 12));
-
- // QUESTION = 2
-//  Calculate Area of Rectangle
-// Develop a function called calculateArea that accepts two arguments: 
-// length and width of a rectangle. The function should calculate and return 
-//  area of the rectangle using the formula: area = length * width. Test the
-//   function with various length and width values.
-
-// function calculateArea(length, width) {
-//   return length * width;
+// function calculateTotalCost(price,quantity) {
+//   return (price * quantity);
 // }
+// console.log(calculateTotalCost(50, 12));
+
+// console.log(calculateTotalCost(200, 24));
+
+// console.log(calculateTotalCost(55, 12));
+
+ 
 // QUESTION = 2
 //  Calculate Area of Rectangle
 // Develop a function called calculateArea that accepts two arguments: 
@@ -37,11 +28,11 @@ console.log(calculateTotalCost(55, 12));
 // function calculateArea(length, width) {
 //   return length * width;
 // }
-// TEST 1
+// // TEST 1
 // console.log(calculateArea(50 , 20))
- // TEST 2
+// //  TEST 2
 // console.log(calculateArea(80, 30))
- // TEST 3
+// //  TEST 3
 // console.log(calculateArea(10, 10))
 
 
@@ -53,15 +44,15 @@ console.log(calculateTotalCost(55, 12));
 // calculate and return the BMI using the formula: BMI = weight / (height * height).
 // Test the function with different weight and height values.
 
-// function calculateBMI(weight, height) {
-//   return weight / (height * height);
-// }
+//  function calculateBMI(weight, height) {
+//    return weight / (height * height);
+//  }
 // TEST 1
 // Test with weight of 70 kg and height of 1.5 meters
-// console.log(calculateBMI(70, 1.5));// 5 feet * 0.3048 meters/foot = 1.524 meters
+//  console.log(calculateBMI(70, 1.5));// 5 feet * 0.3048 meters/foot = 1.524 meters
 // TEST 2
 // Test with weight of 85 kg and height of 1.82 meters
-// cansole.log(calculateBMI(85, 1.82)); // 6 feet * 0.3048 meters/foot = 1.8288 meters
+  console.log(calculateBMI(85, 1.82)); // 6 feet * 0.3048 meters/foot = 1.8288 meters
 
 
  
@@ -80,4 +71,9 @@ console.log(calculateTotalCost(55, 12));
 //   let area = (base * height) / 2;
 //   return area;
 // }
-// console.log(calculateTriangleArea(20 , 30 ,40));
+// // TEST 1
+// console.log(calculateTriangleArea(20 , 30 ,15));
+// // TEST 2
+// console.log(calculateTriangleArea(50 , 20 ,30));
+// // TEST 3
+//  console.log(calculateTriangleArea(23 , 60 ,45));
