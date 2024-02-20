@@ -52,7 +52,7 @@
 //  console.log(calculateBMI(70, 1.5));// 5 feet * 0.3048 meters/foot = 1.524 meters
 // TEST 2
 // Test with weight of 85 kg and height of 1.82 meters
-  console.log(calculateBMI(85, 1.82)); // 6 feet * 0.3048 meters/foot = 1.8288 meters
+  // console.log(calculateBMI(85, 1.82)); // 6 feet * 0.3048 meters/foot = 1.8288 meters
 
 
  
