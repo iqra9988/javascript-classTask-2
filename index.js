@@ -38,7 +38,7 @@
 
 // QUESTION N0 3
 
-// Calculate BMI (Body Mass Index) 
+//  Calculate BMI (Body Mass Index) 
 // Write a function called calculateBMI that takes two arguments:
 // weight (in kilograms) and height (in meters). The function should 
 // calculate and return the BMI using the formula: BMI = weight / (height * height).
